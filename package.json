@@ -1,0 +1,36 @@
+{
+  "name": "DestroyerBot",
+  "version": "1.0.0",
+  "description": "termux",
+  "main": "sm330.js",
+  "scripts": {
+  "start": "sm330.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
+  
+ 
+  
+  
+  
+  
+    
+
+
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+        
