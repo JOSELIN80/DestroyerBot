@@ -1,0 +1,12 @@
+{
+  "name": "DestroyerBot",
+  "version": "1.0.0",
+  "description": "termux",
+  "main": "destroyer.js",
+  "scripts": {
+  "start": "node destroyer.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
